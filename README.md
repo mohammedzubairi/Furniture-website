@@ -1,2 +1,2 @@
 # Furniture-website
-### This websit was made for Univercity project.
+### This websit was made for University project.
